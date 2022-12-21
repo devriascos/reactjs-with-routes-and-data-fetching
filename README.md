@@ -1,4 +1,4 @@
-# E-learning App - Hecha con ReactJs
+# ReactJs App - Usando Router y Data Fetching
 
 Esta app tiene la capacidad de conectarse con una api desarrollada en StrapiJs para gestionar el estado de los usuarios que hacer parte de un equipo de trabajo con dos roles: manager y colaborado que difieren en su capacidad de actualizar el estado de otros usuarios a Activo o Inactivo.
 
